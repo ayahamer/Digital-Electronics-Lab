@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/aulavirtual/Documents/lab3_v7/lab3_v7.srcs/sources_1/new/milliseconds.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'milliseconds'
+WARNING: [VRFC 10-471] case choice must be a locally static expression [C:/Users/aulavirtual/Documents/lab3_v7/lab3_v7.srcs/sources_1/new/milliseconds.vhd:186]
+WARNING: [VRFC 10-471] case choice must be a locally static expression [C:/Users/aulavirtual/Documents/lab3_v7/lab3_v7.srcs/sources_1/new/milliseconds.vhd:187]
+WARNING: [VRFC 10-471] case choice must be a locally static expression [C:/Users/aulavirtual/Documents/lab3_v7/lab3_v7.srcs/sources_1/new/milliseconds.vhd:188]
+WARNING: [VRFC 10-471] case choice must be a locally static expression [C:/Users/aulavirtual/Documents/lab3_v7/lab3_v7.srcs/sources_1/new/milliseconds.vhd:189]
